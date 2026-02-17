@@ -1,8 +1,8 @@
-[![](https://img.shields.io/github/v/release/ecos-umons/TimerStopwatch?label=Latest%20Release)](https://github.com/ecos-umons/TimerStopwatch/releases/latest)
-![Maven Build](https://github.com/ecos-umons/TimerStopwatch/actions/workflows/maven.yml/badge.svg)
-![CodeQL](https://github.com/ecos-umons/TimerStopwatch/actions/workflows/codeql.yml/badge.svg)
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/ecos-umons/TimerStopwatch/badge)](https://securityscorecards.dev/viewer/?uri=github.com/ecos-umons/TimerStopwatch)
-[![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/ecos-umons/TimerStopwatch/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/ecos-umons/TimerStopwatch)
+[![Release](https://img.shields.io/github/v/release/sgl-umons/TimerStopwatch?label=Latest%20Release)](https://github.com/sgl-umons/TimerStopwatch/releases/latest)
+![Maven Build](https://github.com/sgl-umons/TimerStopwatch/actions/workflows/maven.yml/badge.svg)
+![CodeQL](https://github.com/sgl-umons/TimerStopwatch/actions/workflows/codeql.yml/badge.svg)
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/sgl-umons/TimerStopwatch/badge)](https://securityscorecards.dev/viewer/?uri=github.com/sgl-umons/TimerStopwatch)
+[![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/sgl-umons/TimerStopwatch/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/sgl-umons/TimerStopwatch)
 
 # TimerStopwatch
 Java implementation of a statechart with Timer and Stopwatch functionality.
